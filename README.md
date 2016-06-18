@@ -1,2 +1,15 @@
-# CSE110Project
-The git repository for the Rationally Impaired Programmers in Gary's CSE 110 Spring 2016
+<snippet>
+  <content>
+# Roomie
+
+## Description: 
+This is the android source code for an android mobile application "roomie", which solves the awkward day to day issues between roomies.
+
+## Technologies:
+* Android Studio 2.0
+* JDK 8
+* Android SDK 23
+
+</content>
+  <tabTrigger></tabTrigger>
+</snippet>

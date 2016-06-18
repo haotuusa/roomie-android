@@ -3,7 +3,7 @@
 # Roomie
 
 ## Description: 
-This is the android source code for an android mobile application "roomie", which solves the awkward day to day issues between roomies.
+This is the android source code for a mobile application called "roomie", which solves the awkward day to day issues between roomies.
 
 ## Technologies:
 * Android Studio 2.0
